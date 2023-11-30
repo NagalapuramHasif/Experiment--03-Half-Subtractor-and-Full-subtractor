@@ -44,7 +44,7 @@ RegisterNumber:
 ## Output:
 
 ## Truthtable
-![Uploading WhatsApp Image 2023-11-30 at 22.23.30_1455e81e.jpg…]()
+![WhatsApp Image 2023-11-30 at 22 23 28_8187920a](https://github.com/NagalapuramHasif/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149365567/2c8bc110-133e-4bf4-9210-e04eae24accc)
 
 ![WhatsApp Image 2023-11-30 at 22 23 30_b6d1ef8f](https://github.com/NagalapuramHasif/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149365567/b59f7854-2f05-4c4c-8476-4c5ed985b875)
 
